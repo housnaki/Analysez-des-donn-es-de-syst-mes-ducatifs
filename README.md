@@ -6,7 +6,9 @@ Cette étude a pour objectif d’analyser le projet d’expansion à l’intern
 
 Et nous devons répondre aux questions suivantes :
        •Quels sont les pays avec un fort potentiel de clients pour les services de l’entreprise?
+       
        •Pour chacun de ces pays, quelle sera l’évolution de ce potentiel de clients ?
+       
        •Dans quels pays l'entreprise doit-elle opérer en priorité ?
 
 
